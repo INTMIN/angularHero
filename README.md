@@ -1,6 +1,6 @@
 # Edi.ImageWartermark
 
-[![Build status](https://mintext.visualstudio.com/MyFirstProject/_apis/build/status/MyFirstProject-Node.js%20With%20Grunt-CI)](https://mintext.visualstudio.com/MyFirstProject/_build/latest?definitionId=-1)
+[![Build status](https://mintext.visualstudio.com/MyFirstProject/_apis/build/status/MyFirstProject-Node.js%20With%20Grunt-CI)](https://mintext.visualstudio.com/MyFirstProject/_build/latest?definitionId=1)
 
 # AngularTest
 
