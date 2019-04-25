@@ -1,3 +1,7 @@
+# Edi.ImageWartermark
+
+[![Build status](https://mintext.visualstudio.com/MyFirstProject/_apis/build/status/MyFirstProject-Node.js%20With%20Grunt-CI)](https://mintext.visualstudio.com/MyFirstProject/_build/latest?definitionId=1)
+
 # AngularTest
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.
